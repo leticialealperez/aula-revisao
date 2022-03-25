@@ -1,0 +1,130 @@
+div#box1,
+div#box2 {
+  height: 330px;
+  width: 330px;
+  border: 1px solid black;
+}
+
+div#box1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+div#box2 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+div#ex1 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: left;
+}
+
+div#ex2 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: left;
+}
+div#ex3 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: left;
+}
+
+div#ex4 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: left;
+}
+div#ex5 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: left;
+}
+
+div#ex6 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: left;
+  opacity: 0;
+}
+
+div#ex7 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: left;
+}
+
+div#ex8 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: right;
+}
+
+div#ex9 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: right;
+}
+
+div#ex10 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: right;
+}
+
+div#ex11 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: right;
+}
+
+div#ex12 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: right;
+}
+
+div#ex13 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: right;
+  opacity: 0;
+}
+
+div#ex14 {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  margin: 5px;
+  float: right;
+}

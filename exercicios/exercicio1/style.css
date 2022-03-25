@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+article#exercicio1 {
+  width: 100vw;
+  height: 100vh;
+  background-color: darkgrey;
+}
+
+article#exercicio2 {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  position: relative;
+}
+
+div#azul {
+  height: 500px;
+  width: 500px;
+  background-color: blue;
+  position: relative;
+  top: calc(50vh - 250px);
+  left: calc(50vw - 250px);
+  right: calc(50vw - 250px);
+  bottom: calc(50vh - 250px);
+}
+
+div#vermelha {
+  height: 400px;
+  width: 400px;
+  background-color: red;
+  position: absolute;
+  top: calc(50% - 200px); /* 500 - 400 = 100 | 100 / 2 = 50px */
+  left: calc(50% - 200px); /* 500 - 400 = 100 | 100 / 2 = 50px */
+  right: calc(50% - 200px); /* 500 - 400 = 100 | 100 / 2 = 50px */
+  bottom: calc(50% - 200px); /* 500 - 400 = 100 | 100 / 2 = 50px */
+}
+
+div#preta {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  position: absolute;
+  top: calc(50% - 150px); /* 400 - 300 = 100 | 100 / 2 = 50px */
+  left: calc(50% - 150px); /* 400 - 300 = 100 | 100 / 2 = 50px */
+  right: calc(50% - 150px); /* 400 - 300 = 100 | 100 / 2 = 50px */
+  bottom: calc(50% - 150px); /* 400 - 300 = 100 | 100 / 2 = 50px */
+}
+
+div#verde {
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  position: absolute;
+  top: calc(50% - 100px); /* 300 - 200 = 100 | 100 / 2 = 50px */
+  left: calc(50% - 100px); /* 300 - 200 = 100 | 100 / 2 = 50px */
+  right: calc(50% - 100px); /* 300 - 200 = 100 | 100 / 2 = 50px */
+  bottom: calc(50% - 100px); /* 300 - 200 = 100 | 100 / 2 = 50px */
+}
+
+div#amarela {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+  top: calc(50% - 50px); /* 200 - 100 = 100 | 100 / 2 = 50px */
+  left: calc(50% - 50px); /* 200 - 100 = 100 | 100 / 2 = 50px */
+  right: calc(50% - 50px); /* 200 - 100 = 100 | 100 / 2 = 50px */
+  bottom: calc(50% - 50px); /* 200 - 100 = 100 | 100 / 2 = 50px */
+}
+
+/* exercicio 2*/
+#div1,
+#div2,
+#div3,
+#div4 {
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  margin: 5px;
+}
+
+div#div1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+div#div2 {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+div#div3 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+div#div4 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
