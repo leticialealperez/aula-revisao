@@ -2,7 +2,7 @@ div#box1,
 div#box2 {
   height: 330px;
   width: 330px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 div#box1 {
@@ -26,6 +26,134 @@ div#ex1 {
 }
 
 div#ex2 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin: 5px;
+  float: left;
+}
+
+div#ex3 {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  margin: 5px;
+  float: left;
+}
+
+div#ex4 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin: 5px;
+  float: left;
+}
+
+div#ex5 {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  margin: 5px;
+  float: left;
+}
+
+div#ex6 {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  margin: 5px;
+  float: left;
+  opacity: 0;
+}
+
+div#ex7 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin: 5px;
+  float: left;
+}
+
+div#ex8 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin: 5px;
+  float: right;
+  opacity: 1;
+}
+
+div#ex9 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin: 5px;
+  float: right;
+  opacity: 0;
+}
+
+div#ex10 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin: 5px;
+  float: right;
+  opacity: 0;
+}
+
+div#ex11 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin: 5px;
+  float: right;
+  opacity: 1;
+}
+
+div#ex12 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin: 5px;
+  float: right;
+  opacity: 1;
+}
+
+div#ex13 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin: 5px;
+  float: right;
+  opacity: 0;
+}
+
+div#ex14 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin: 5px;
+  float: right;
+  opacity: 1;
+}
+div#ex15 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin: 5px;
+  float: right;
+  opacity: 1;
+}
+div#ex16 {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin: 5px;
+  float: right;
+  opacity: 1;
+}
+
+/* div#ex2 {
   height: 100px;
   width: 100px;
   background-color: black;
@@ -127,4 +255,4 @@ div#ex14 {
   background-color: black;
   margin: 5px;
   float: right;
-}
+} */
