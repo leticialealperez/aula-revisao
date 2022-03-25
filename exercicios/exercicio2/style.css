@@ -5,23 +5,25 @@ body {
 div {
   height: 200px;
   width: 200px;
-  background-color: black;
   margin: 5px;
 }
 
 div#div1 {
+  background-color: black;
   position: fixed;
-  left: 0;
-  top: 0;
+  right: 0;
+  bottom: 0;
 }
 
 div#div2 {
+  background-color: green;
   position: absolute;
   right: 0;
   top: 0;
 }
 
 div#div3 {
+  background-color: blue;
   position: absolute;
   left: 0;
   bottom: 0;
